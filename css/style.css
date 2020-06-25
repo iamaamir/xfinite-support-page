@@ -61,6 +61,7 @@ body{
 .support_address_section{
 	margin: 15px;
 	margin-top: 40px;
+	line-height: 1.2;
 
 }
 
@@ -89,20 +90,4 @@ body{
 
 .link{
 	color: #88c937;
-}
-
-
-.support_address_section_contacts{
-	list-style: none;
-}
-
-.support_address_section_contacts li{
-	background-color: #eee;
-	margin: 10px;
-	margin-left: 0;
-	padding: 12px 10px;
-	display: flex;
-	justify-content: space-between;
-	border-radius: 2px;
-	box-shadow: 1px 0px 1px #ccc;
 }
